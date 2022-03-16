@@ -3,10 +3,10 @@
 #Que No:1
 
 <h1>The given Array U Have To Add One at the last </h1> 
--- add the 1 at the end of an array
+-- add the 1 at the end of an array<br/>
 -- then check from last whether it is <9 or not <br/>
--- if it is less then retun array
--- if it not then arr[i]=0;
+-- if it is less then retun array<br/>
+-- if it not then arr[i]=0;<br/>
 -- 
 
 
