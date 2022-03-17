@@ -20,6 +20,11 @@
 
 
 # Que 3
+<h3>Multiple of two String </h3>
+-- first convert string into Big Integer useing     new BigInteger();  <br/>
+-- then use the a.multiple(b) for multiplying <br/>
+-- then create new string using        new String(); <br/>
+--- and return then ans 
 
 
 
