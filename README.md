@@ -1,4 +1,4 @@
-# Amazon-DSA
+# Amazon-DSA (SDE-1)
 <h1> Best DSA Question For Creaking Amazon</h1>
 #Que No:1
 
