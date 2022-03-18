@@ -26,6 +26,9 @@
 -- then create new string using        new String(); <br/>
 --- and return then ans 
 
-
-
-
+# Que 4
+<h3>Segregate Even and Odd numbers</h3>
+-- sort the Array <br/>
+-- create two ArrayList  <br/>
+-- add odd and even in that arraylist <br/>
+--  change the given array with arraylist <br/>
