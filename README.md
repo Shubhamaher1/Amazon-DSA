@@ -32,3 +32,9 @@
 -- create two ArrayList  <br/>
 -- add odd and even in that arraylist <br/>
 --  change the given array with arraylist <br/>
+
+
+# Que 5
+<h3>Segregate even and odd nodes in a Link List</h3>
+--
+-- 
