@@ -36,5 +36,6 @@
 
 # Que 5
 <h3>Segregate even and odd nodes in a Link List</h3>
---<br/>
+--<a href="https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#">Link</a><br/>
+--
 -- 
