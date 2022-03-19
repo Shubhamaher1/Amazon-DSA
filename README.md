@@ -38,6 +38,6 @@
 <h3>Segregate even and odd nodes in a Link List</h3>
 --<a href="https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#">Link</a><br/>
 --
--- 
+--<br/>
 # Que 6
 <h3>Special Stack</h3>
