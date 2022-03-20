@@ -45,3 +45,11 @@
 # Que 6
 <h3>Special Stack</h3>
 <a href="#">Link</a>
+
+
+# Que3
+<h3>Get minimum element from stack </h3>
+<a href="https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?page=1&status[]=unsolved&curated[]=1&sortBy=submissions#">Link Que And Ans</a>
+-- Find Min Element from Stack peek each element from given Stack and compare prv Small Value<br/>
+-- For Pop we can use s.pop()  and return that <br/>
+-- for Push using         S.push(value) <br/>
