@@ -47,9 +47,20 @@
 <a href="#">Link</a>
 
 
-# Que3
+# Que7
 <h3>Get minimum element from stack </h3>
 <a href="https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?page=1&status[]=unsolved&curated[]=1&sortBy=submissions#">Link Que And Ans</a>
 -- Find Min Element from Stack peek each element from given Stack and compare prv Small Value<br/>
 -- For Pop we can use s.pop()  and return that <br/>
 -- for Push using         S.push(value) <br/>
+
+#  Que 8 
+<h3>X- axis car question SDE-1</h3>
+-- <br/>
+--<br/>
+
+# Que -9
+<h3> Binary Search Tree  leaf Node</h3>
+-- <br/>
+--<br/>
+
